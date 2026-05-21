@@ -1,7 +1,7 @@
 using System;
 using System.Text.Json.Serialization;
 
-namespace ProjetoFinal.modelos
+namespace NetMon.Core
 {
     public class Treinador
     {

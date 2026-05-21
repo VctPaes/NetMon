@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="NetMon.Console/NetMon.Console.csproj" />
+  <Project Path="NetMon.Core/NetMon.Core.csproj" />
+</Solution>

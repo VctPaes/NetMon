@@ -1,13 +1,13 @@
 ﻿using System.Text;
 using System.Globalization;
-using ProjetoFinal.modelos;
+using NetMon.Core;
 using Newtonsoft.Json;
 using System.Diagnostics;
 using System.Threading;
 
 Console.WriteLine("Bem-vindo ao jogo de captura de monstros!");
 
-const string arquivoUsuarios = "usuarios.json";
+const string arquivoUsuarios = "NetMon.Console/Data/usuarios.json";
 List<Usuario> usuarios = CarregarUsuarios();
 
 string nomeCompleto = LerEntrada("\nDigite seu nome de usuário: ");
