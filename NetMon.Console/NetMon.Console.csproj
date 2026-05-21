@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ProjetoFinal.modelos\ProjetoFinal.modelos.csproj" />
+    <ProjectReference Include="..\NetMon.core\NetMon.core.csproj" />
   </ItemGroup>
 
   <ItemGroup>

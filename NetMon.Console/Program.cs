@@ -1,6 +1,6 @@
 ﻿using System.Text;
 using System.Globalization;
-using ProjetoFinal.modelos;
+using NetMon.Core;
 using Newtonsoft.Json;
 using System.Diagnostics;
 using System.Threading;

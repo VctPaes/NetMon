@@ -1,6 +1,6 @@
 using System;
 
-namespace ProjetoFinal.modelos;
+namespace NetMon.Core;
 
 public class Rede
 {
