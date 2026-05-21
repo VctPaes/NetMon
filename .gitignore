@@ -1,0 +1,39 @@
+# Build do .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# NuGet
+packages/
+*.nupkg
+
+# Testes e cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
