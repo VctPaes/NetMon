@@ -1,3 +1,6 @@
+# Arquivos do Jogo
+NetMon.Console\Data\usuarios.json
+
 # Build do .NET
 bin/
 obj/
